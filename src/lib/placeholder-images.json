@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "product-1",
+      "description": "A box of cereal on a kitchen counter.",
+      "imageUrl": "https://images.unsplash.com/photo-1699723521107-bb297f2642ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjZXJlYWwlMjBib3h8ZW58MHx8fHwxNzY4MzY5NDIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cereal box"
+    },
+    {
+      "id": "product-2",
+      "description": "A can of soda with condensation.",
+      "imageUrl": "https://images.unsplash.com/photo-1716800586014-fea19e9453fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb2RhJTIwY2FufGVufDB8fHx8MTc2ODI3NjY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soda can"
+    },
+    {
+      "id": "product-3",
+      "description": "A cup of yogurt with berries.",
+      "imageUrl": "https://images.unsplash.com/photo-1620139117627-8656fe22392e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx5b2d1cnQlMjBjdXB8ZW58MHx8fHwxNzY4MzMxNzgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yogurt cup"
+    },
+    {
+      "id": "product-4",
+      "description": "A chocolate bar.",
+      "imageUrl": "https://images.unsplash.com/photo-1575377427642-087cf684f29d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaG9jb2xhdGUlMjBiYXJ8ZW58MHx8fHwxNzY4MzE0NTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate bar"
+    },
+    {
+      "id": "product-not-found",
+      "description": "A magnifying glass over a question mark.",
+      "imageUrl": "https://images.unsplash.com/photo-1547057740-4b18aac8eed2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYWduaWZ5aW5nJTIwZ2xhc3N8ZW58MHx8fHwxNzY4MzMzNjk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "magnifying glass"
+    }
+  ]
 }
